@@ -1,4 +1,4 @@
-## Hi there 👋
+👋
 
 <!--
 **fitzy1013/fitzy1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
